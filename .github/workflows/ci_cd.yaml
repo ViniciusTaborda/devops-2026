@@ -43,4 +43,4 @@ jobs:
         with:
           context: .
           push: true
-          tag: ${{ vars.DOCKER_HUB_USERNAME }}/vinicius-eduardo-taborda-costa:02-07-26
+          tags: ${{ vars.DOCKER_HUB_USERNAME }}/vinicius-eduardo-taborda-costa:02-07-26
